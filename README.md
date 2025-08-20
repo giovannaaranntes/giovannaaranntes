@@ -6,9 +6,9 @@
 
 <div align="center">
   
-  <img height="180em" src="banner.jpg"/>
+  <img height="180em" src="miku.jpg"/>
   
-  <img height="180em" src="download20250703083024.png"/>
+  <img height="180em" src="download20250803080538.png"/>
 </div>
 
 <br/>
